@@ -1,6 +1,6 @@
 # Análisis y Predicción de la Evasión de Clientes (Churn) en Telecom X
 
-![Dashboard de Métricas](images/dashboard_example.png) Este repositorio contiene el análisis completo y el desarrollo de modelos predictivos para identificar y comprender los factores que influyen en la evasión de clientes (Churn) en una empresa de telecomunicaciones ficticia, "Telecom X". El objetivo es proporcionar insights accionables para estrategias de retención de clientes.
+Este repositorio contiene el análisis completo y el desarrollo de modelos predictivos para identificar y comprender los factores que influyen en la evasión de clientes (Churn) en una empresa de telecomunicaciones ficticia, "Telecom X". El objetivo es proporcionar insights accionables para estrategias de retención de clientes.
 
 ---
 
