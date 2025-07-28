@@ -13,9 +13,8 @@ Este repositorio contiene el análisis completo y el desarrollo de modelos predi
 5.  [Resultados y Modelos](#-resultados-y-modelos)
 6.  [Factores Clave de Churn](#-factores-clave-de-churn)
 7.  [Estrategias de Retención Propuestas](#-estrategias-de-retención-propuestas)
-8.  [Cómo Usar este Repositorio](#-cómo-usar-este-repositorio)
-9.  [Tecnologías Utilizadas](#-tecnologías-utilizadas)
-10. [Contacto](#-contacto)
+8.  [Tecnologías Utilizadas](#-tecnologías-utilizadas)
+9. [Contacto](#-contacto)
 
 ---
 
